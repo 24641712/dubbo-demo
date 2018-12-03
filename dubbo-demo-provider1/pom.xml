@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>dubbo-demo-consumer</artifactId>
+    <artifactId>dubbo-demo-provider1</artifactId>
     <dependencies>
         <dependency>
             <groupId>com.java1234</groupId>
